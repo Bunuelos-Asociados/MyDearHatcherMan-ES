@@ -17,4 +17,4 @@ DESCARGA EL ARCHIVO .ZIP ARRIBA
 
 link de la traducción para android: 
 
-Versión 1.1
+Versión 1.4
