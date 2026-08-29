@@ -15,6 +15,6 @@ DESCARGA EL ARCHIVO .ZIP ARRIBA
 3. COPIA Y PEGA TODOS LOS ARCHIVOS DE ESTA CARPETA Y PEGALOS EN LA CARPETA "game" DEL JUEGO ORIGINAL
 4. DISFRUTA EL JUEGO!.
 
-link de la traducción para android: 
+link de la traducción para android: https://github.com/Bunuelos-Asociados/MyDearHatcherMan-ES/releases/tag/1.4
 
 Versión 1.4
